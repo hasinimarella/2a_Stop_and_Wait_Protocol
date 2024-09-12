@@ -41,3 +41,5 @@ while True:
 ![alt text](<computer network -1.png>)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
+
+
