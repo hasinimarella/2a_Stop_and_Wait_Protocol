@@ -28,7 +28,7 @@ while True:
         break
 
 ```
-SLIENT:
+SERVER:
 ```
 import socket
 s=socket.socket()
